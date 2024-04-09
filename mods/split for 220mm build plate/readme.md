@@ -9,7 +9,7 @@
 ## Description:
 This mod splits all the large parts in the V-Chonk such that they can be printed on any printer with a build area of at least 220 mm x 220 mm.
 
-![base]([/assets/base.png](https://github.com/Heinekamp/V-Chonk/blob/main/mods/split%20for%20220mm%C2%B2%20build%20volume/assets/base.png))
+![base](https://github.com/Heinekamp/V-Chonk/blob/main/mods/split%20for%20220mm%C2%B2%20build%20volume/assets/base.png)
 
 ## Status:
 ### CAD:
