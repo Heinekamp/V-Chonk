@@ -25,10 +25,10 @@ In Progress
 ## BOM:
 ### Base:
 - 32x Cap Head Screw M3x8mm
-- 32x Brass Heat Insert M3
+- 32x Brass Heat Set Insert M3
 ### Gantry:
 - 12x Cap Head Screw M3x8mm
-- 12x Brass Heat Insert M3
+- 12x Brass Heat Set Insert M3
 
 ## Printing:
 On the parts Gantry1 and Gantry2 some of the tabs will require supports.
