@@ -1,5 +1,4 @@
-# Split for 220mm build plate
-
+# Split for 220mm build area
 > [!WARNING]  
 > This is still a Work in Progress. None of the files have been printed or tested.
 
