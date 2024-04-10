@@ -1,4 +1,4 @@
-# Split for 220mm² build volume
+# Split for 220mm build plate
 
 > [!WARNING]  
 > This is still a Work in Progress. None of the files have been printed or tested.
@@ -7,7 +7,7 @@
 > It is recommened to [friction weld](https://www.youtube.com/watch?v=Pa2DoE3sirU) the seems for additional rigidity. Alternatively you can also use a soldering iron with a bevel tip to "weld" the seems.
 >
 ## Description:
-This mod splits all the large parts in the V-Chonk such that they can be printed on any printer with a build area of at least 220 mm².
+This mod splits all the large parts in the V-Chonk such that they can be printed on any printer with a build area of at least 220 mm x 220 mm.
 
 ![image](/assets/base.png)
 
