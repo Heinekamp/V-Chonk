@@ -17,6 +17,7 @@ This mod splits all the large parts in the V-Chonk such that they can be printed
 |--------|--------------------------------------------------------------------------------|
 | Base   | Complete, Untested                                                             |
 | Gantry | Complete, Untested <br> Version with carbon rods for additional stability in progress |
+| Bed Frame | TODO                                                                        |
 | Skirt  | TODO                                                                           |
 
 ### Documentation:
