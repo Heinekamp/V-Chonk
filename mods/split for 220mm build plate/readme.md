@@ -16,6 +16,7 @@ This mod splits all the large parts in the V-Chonk such that they can be printed
 |--------|--------------------------------------------------------------------------------|
 | Base   | Complete, Untested                                                             |
 | Gantry | Complete, Untested <br> Version with carbon rods for additional stability in progress |
+| Bed Carrier | Complete, Untested|
 | Skirt  | TODO                                                                           |
 
 ### Documentation:
@@ -28,6 +29,9 @@ In Progress
 ### Gantry:
 - 12x Cap Head Screw M3x8mm
 - 12x Brass Heat Set Insert M3
+### Bed Carriage:
+- 22x Cap Head Screw M3x8mm
+- 22x Brass Heat Set Insert M3
 
 ## Printing:
-On the parts Gantry1 and Gantry2 some of the tabs will require supports.
+On the parts Gantry1, Gantry2, Bed_Carriage1, Bed_Carriage2 and Bed_Carriage3 some of the tabs will require supports.
